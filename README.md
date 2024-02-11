@@ -67,8 +67,8 @@
 <br>
 <br>
 
-<p align="center" style="padding: 20px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ni190304&show_icons=true&locale=en&layout=compact" alt="ni190304" />
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ni190304&show_icons=true&locale=en" alt="ni190304" />
 </p>
 
 <br>
@@ -80,7 +80,9 @@
         <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ni190304&" alt="ni190304" />
     </div>
     <div style="flex: 1; margin-bottom: 20px;">
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=ni190304&show_icons=true&locale=en" alt="ni190304" />
+        <p align="center" style="padding: 20px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ni190304&show_icons=true&locale=en&layout=compact" alt="ni190304" />
+</p>
     </div>
 </div>
 
