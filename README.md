@@ -81,7 +81,7 @@
     </div>
     <div style="flex: 1; margin-bottom: 20px;">
         <p align="center" style="padding: 20px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ni190304&show_icons=true&locale=en&layout=compact" alt="ni190304" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni190304&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork" alt="ni190304" />
 </p>
     </div>
 </div>
