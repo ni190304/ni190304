@@ -26,7 +26,7 @@
     <a href="https://linkedin.com/in/nihaal-nayak-a9b811194" target="blank" style="padding-right: 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihaal-nayak-a9b811194" height="30" width="40" /></a>
     <a href="https://kaggle.com/nihaalnayak19" target="blank" style="padding-right: 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nihaalnayak19" height="30" width="40" /></a>
     <a href="https://instagram.com/nayak_.19" target="blank" style="padding-right: 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayak_.19" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/nayak_19" target="blank" style="padding-right: 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nayak_19" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/nayak19" target="blank" style="padding-right: 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nayak19" height="30" width="40" /></a>
 </p>
 
 <br>
